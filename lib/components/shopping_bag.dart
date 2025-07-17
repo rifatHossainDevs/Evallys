@@ -9,6 +9,7 @@ class ShoppingBag extends StatelessWidget {
     this.numOfItem,
   });
 
+
   final Color? color;
   final int? numOfItem;
 
