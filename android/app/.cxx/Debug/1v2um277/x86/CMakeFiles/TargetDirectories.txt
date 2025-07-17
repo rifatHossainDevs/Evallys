@@ -1,0 +1,2 @@
+/Users/rootdevsm4-v5/Orpon/evallys-ecommerce/android/app/.cxx/Debug/1v2um277/x86/CMakeFiles/edit_cache.dir
+/Users/rootdevsm4-v5/Orpon/evallys-ecommerce/android/app/.cxx/Debug/1v2um277/x86/CMakeFiles/rebuild_cache.dir
